@@ -77,7 +77,4 @@ Datasets can be extended by adding the dataset in the `datasets` folder. Any lab
 ```
 pip install -r requirements.txt
 ```
-If you have any questions or suggestions, feel free to contact:
 
-- Kerem Özfatura (aozfatura22@ku.edu.tr)
-- Emre Özfatura (m.ozfatura@imperial.ac.uk)
