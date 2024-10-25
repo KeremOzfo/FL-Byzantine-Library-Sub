@@ -77,35 +77,6 @@ Datasets can be extended by adding the dataset in the `datasets` folder. Any lab
 ```
 pip install -r requirements.txt
 ```
-
-## Citation
-
-If you find this repo useful, please cite our papers.
-
-```
-@ARTICLE{ROP,
-  author={Ozfatura, Kerem and Ozfatura, Emre and Kupcu, Alptekin and Gunduz, Deniz},
-  journal={IEEE Transactions on Information Forensics and Security}, 
-  title={Byzantines Can Also Learn From History: Fall of Centered Clipping in Federated Learning}, 
-  year={2024},
-  volume={19},
-  number={},
-  pages={2010-2022},
-  doi={10.1109/TIFS.2023.3345171}}
-```
-
-```
-@misc{sparseATK,
-      title={Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning}, 
-      author={Emre Ozfatura and Kerem Ozfatura and Alptekin Kupcu and Deniz Gunduz},
-      year={2024},
-      eprint={2404.06230},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-## Contact
 If you have any questions or suggestions, feel free to contact:
 
 - Kerem Özfatura (aozfatura22@ku.edu.tr)
